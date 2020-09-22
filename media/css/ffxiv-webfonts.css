@@ -1,0 +1,25 @@
+/* https://img.finalfantasyxiv.com */
+@font-face{font-family:"FFXIV_Lodestone_SSF";src:url("https://img.finalfantasyxiv.com/lds/pc/global/fonts//FFXIV_Lodestone_SSF.eot?t=1592321622");src:url("https://img.finalfantasyxiv.com/lds/pc/global/fonts//FFXIV_Lodestone_SSF.eot?t=1592321622#iefix") format("eot"),url("https://img.finalfantasyxiv.com/lds/pc/global/fonts//FFXIV_Lodestone_SSF.woff?t=1592321622") format("woff"),url("https://img.finalfantasyxiv.com/lds/pc/global/fonts//FFXIV_Lodestone_SSF.ttf?t=1592321622") format("truetype"),url("https://img.finalfantasyxiv.com/lds/pc/global/fonts//FFXIV_Lodestone_SSF.svg?t=1592321622#FFXIV_Lodestone_SSF") format("svg");font-weight:400;font-style:normal}
+@font-face{font-family:"FFXIV Lodestone";font-display:auto;src:url("https://img.finalfantasyxiv.com/lds/pc/global/fonts/FFXIV_Lodestone-1592320685.eot?t=1592320685");src:url("https://img.finalfantasyxiv.com/lds/pc/global/fonts/FFXIV_Lodestone-1592320685.eot?t=1592320685#iefix") format("eot"),url("https://img.finalfantasyxiv.com/lds/pc/global/fonts/FFXIV_Lodestone-1592320685.woff2?t=1592320685") format("woff2"),url("https://img.finalfantasyxiv.com/lds/pc/global/fonts/FFXIV_Lodestone-1592320685.woff?t=1592320685") format("woff"),url("https://img.finalfantasyxiv.com/lds/pc/global/fonts/FFXIV_Lodestone-1592320685.ttf?t=1592320685") format("truetype"),url("https://img.finalfantasyxiv.com/lds/pc/global/fonts/FFXIV_Lodestone-1592320685.svg?t=1592320685#FFXIV Lodestone") format("svg");font-weight:normal;font-style:normal}
+.xiv-lds:before{display:inline-block;font-family:"FFXIV Lodestone";font-style:normal;font-weight:normal;text-rendering:auto;vertical-align:top;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.xiv-lds-lg{font-size:1.3333333333333333em;line-height:0.75em;vertical-align:-15%}
+.xiv-lds-2x{font-size:2em}
+.xiv-lds-3x{font-size:3em}
+.xiv-lds-4x{font-size:4em}
+.xiv-lds-5x{font-size:5em}
+.xiv-lds-fw{width:1.2857142857142858em;text-align:center}
+.xiv-lds-elemental-level:before{content:""}
+.xiv-lds-facebook:before{content:""}
+.xiv-lds-home-world:before{content:""}
+.xiv-lds-instagram:before{content:""}
+.xiv-lds-resistance-level:before{content:""}
+.xiv-lds-twitch:before{content:""}
+.xiv-lds-twitter:before{content:""}
+.xiv-lds-youtube:before{content:""}
+.xiv-lds-home-world{margin-right:2px}
+html{overflow-y:scroll}
+html.ja{font-family:"メイリオ", Meiryo, "Hiragino Sans", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "ＭＳ Ｐゴシック", Arial, Verdana, sans-serif,"FFXIV_Lodestone_SSF"}
+html.en-us,html.en-gb,html.fr,html.de{font-family:Arial, Verdana, sans-serif, "メイリオ", Meiryo, "Hiragino Sans", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック","FFXIV_Lodestone_SSF"}
+
+
+
