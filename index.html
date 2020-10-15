@@ -22,7 +22,8 @@
 
       .wrapper { margin: 3vh auto; overflow: auto; width: 95vw; }
 
-      [itemprop="image"] > img { display: block; margin-left: auto; object-fit: cover; max-width: 75rem; }
+      [itemprop="image"] { overflow: hidden; }
+      [itemprop="image"] > img { display: block; width: 100%; }
 
       @media screen and (min-width: 37.500em) {
         h1 { font-size: 2.625rem; }
